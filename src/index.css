@@ -6,8 +6,12 @@ body {
   border: 2px solid #333;
   border-radius: 30px;
   overflow: hidden;
+  margin: 20px auto;
+  width: 50%;
 }
 .inner {
-  background-color: #00bf30;
-  padding: 10px;
+  background-color: #07cb38;
+  padding: 5px;
+  text-align: right;
+  transition: 5s linear;
 }

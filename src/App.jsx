@@ -3,7 +3,7 @@ import ProgressBar from "./components/ProgressBar";
 const App = () => {
   return (
     <div>
-      <ProgressBar progress={30} />
+      <ProgressBar progress={93} />
     </div>
   );
 };
