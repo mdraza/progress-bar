@@ -1,0 +1,13 @@
+body {
+  margin: 100px;
+}
+
+.outer {
+  border: 2px solid #333;
+  border-radius: 30px;
+  overflow: hidden;
+}
+.inner {
+  background-color: #00bf30;
+  padding: 10px;
+}
